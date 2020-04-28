@@ -2,9 +2,9 @@ body {
   background-color: #444444;
   color: #ffffff;
   background-image: 
-    linear-gradient(45deg, rgba(0,170,255,.5) 50%, transparent 50%),
+    linear-gradient(45deg, rgba(112,34,24,80) 50%, transparent 50%),
     linear-gradient(-45deg, transparent 50%, rgba(0,136,204,0.5) 50%);
-    background-size: 17px 70px;
+    background-size: 2px 0.65px;
   font-family: Helvetica, Arial, sans-serif;
   margin: 10% 20%
 }
@@ -40,20 +40,3 @@ body {
   border-bottom: 1px solid #dddddd;
   background-color: rgba(0,0,0,0.1)
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
